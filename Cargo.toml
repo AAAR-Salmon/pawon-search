@@ -6,7 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+anyhow = "1.0.75"
 itertools = "0.11.0"
-lindera-tokenizer = {version = "0.27.1", features = ["ipadic"]}
-# ビルド時間かかりすぎてむりぽ
-# lindera-tokenizer = {version = "0.27.1", features = ["ipadic-neologd"]}
+vibrato = "0.5.1"
