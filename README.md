@@ -10,7 +10,7 @@ pawon-search is the software for efficiently finding words that are formed
 for &#x1B06B;&#x1B052;&#x1B11E;&#x1B088;&#x1B01A;&#x1B066;.
 
 &#x1B06B;&#x1B052;&#x1B11E;&#x1B088;&#x1B01A;&#x1B066; (the proper reading is
-"TU-SE-N(or MU, MO)-NA-KA-TI", spelled in modern kana as "つせんなかち", but
+"TU-SE-N(or MU, MO)-NI-KA-TI", spelled in modern kana as "つせんにかち", but
 contemporary Japanese who are unfamiliar with hentaigana (obsolete hiragana)
 might recognize the glyphs as **"HA(or PA)-WO-N-KO-U-TI"**) is the game
 inspired by [NKODICE], to enjoy the fun of random word formed by rolling dice.
